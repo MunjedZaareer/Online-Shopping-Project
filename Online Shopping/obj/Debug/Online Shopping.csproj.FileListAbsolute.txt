@@ -5,3 +5,10 @@ C:\Users\Surface\Desktop\New folder (7)\Online Shopping\Online Shopping\obj\Debu
 C:\Users\Surface\Desktop\New folder (7)\Online Shopping\Online Shopping\obj\Debug\Online Shopping.csproj.CoreCompileInputs.cache
 C:\Users\Surface\Desktop\New folder (7)\Online Shopping\Online Shopping\obj\Debug\Online Shopping.exe
 C:\Users\Surface\Desktop\New folder (7)\Online Shopping\Online Shopping\obj\Debug\Online Shopping.pdb
+C:\OnlineShopping\Online Shopping\bin\Debug\Online Shopping.exe.config
+C:\OnlineShopping\Online Shopping\bin\Debug\Online Shopping.exe
+C:\OnlineShopping\Online Shopping\bin\Debug\Online Shopping.pdb
+C:\OnlineShopping\Online Shopping\obj\Debug\Online Shopping.csprojAssemblyReference.cache
+C:\OnlineShopping\Online Shopping\obj\Debug\Online Shopping.csproj.CoreCompileInputs.cache
+C:\OnlineShopping\Online Shopping\obj\Debug\Online Shopping.exe
+C:\OnlineShopping\Online Shopping\obj\Debug\Online Shopping.pdb
